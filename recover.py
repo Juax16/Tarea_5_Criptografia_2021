@@ -21,7 +21,7 @@ def recover(mail, conn):
     
     domain = mail.split('@')[1] 
     # Crea un archivo, si existe lo reescribe, de nombre "'msgid_'+ dominio" 
-    f = open('msgid_'+ domain ,'w')
+    f = open('msgid_'+ domain + '.txt' ,'w')
 
 
     # Se recorre cada elemento de la lista ID's, no condundir con el 'message-id'
@@ -39,14 +39,14 @@ def recover(mail, conn):
         msg_id = email_obj['message-id'].strip('<>')
         # Recupera todos los campos 'received' y toma el primero y el penúltimo si no es el mismo y existe
         msg_receiveds = email_obj.get_all('received')
-        msg_first_received = msg_receiveds[0]
+        msg_first_received = msg_receiveds[-1]
         try:
-            if msg_receiveds[0] != msg_receiveds[-2] and msg_receiveds[-2]:
-                msg_penultimate_received = msg_receiveds[-2]
+            if msg_receiveds[-1] != msg_receiveds[1] and msg_receiveds[1]:
+                msg_penultimate_received = msg_receiveds[1]
         except:
             msg_penultimate_received = 'n/a'
 
-            if msg_receiveds[0] != msg_receiveds[-2]:
+            if msg_receiveds[1] != msg_receiveds[-1]:
                 print('Hay solo 2 received')
             else:
                 print('Hay solo 1 received')

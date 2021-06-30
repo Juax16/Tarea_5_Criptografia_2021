@@ -1,0 +1,2147 @@
+1134811335198.1107787333936.1612591409.0.171110JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:53436] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.245.20 (envelope-from <A/PnqMvTXQU2KVjddOAfoUw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 47/37-14019-7F80E6F5; Fri, 25 Sep 2020 11:12:55 -0400
+from HE1EUR04FT015.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::4f) by
+ HE1EUR04HT131.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::155)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3412.21; Fri, 25 Sep
+ 2020 15:12:55 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134812233683.1107787333936.1612591409.0.161030JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:39274] helo=p2-jbemailsyndicator16.ctct.net)
+	by 10.249.237.20 (envelope-from <AHC52U/TSRxKHTfN8q3O2sA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 1F/27-63168-EC05F6F5; Sat, 26 Sep 2020 10:31:42 -0400
+from DM6NAM10FT035.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e86::50) by
+ DM6NAM10HT060.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e86::256)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3412.21; Sat, 26 Sep
+ 2020 14:31:43 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134819114560.1107787333936.1612591409.0.151005JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:43678] helo=p2-jbemailsyndicator27.ctct.net)
+	by 10.249.249.20 (envelope-from <AISNPb8TvTI6NyaeL973KLg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id D9/99-14484-6CFE17F5; Mon, 28 Sep 2020 10:14:30 -0400
+from VE1EUR02FT061.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1e::4a) by
+ VE1EUR02HT177.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1e::250)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3412.21; Mon, 28 Sep
+ 2020 14:14:41 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134832225296.1107787333936.1612591409.0.161159JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:57305] helo=p2-jbemailsyndicator11.ctct.net)
+	by 10.249.240.20 (envelope-from <AYrJoE93lQ4iSwXutPgDktA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id B0/CB-12260-A8DF57F5; Thu, 01 Oct 2020 12:02:18 -0400
+from DB3EUR04FT028.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0c::4f) by
+ DB3EUR04HT130.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0c::450)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3433.34; Thu, 1 Oct
+ 2020 16:02:19 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134836228069.1107787333936.1612591409.0.151016JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:38695] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.248.20 (envelope-from <Azc/1Pi1DSGuD03QH5934XQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id CB/47-61402-8B6377F5; Fri, 02 Oct 2020 10:18:32 -0400
+from CO1NAM03FT006.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.55) by CO1NAM03HT187.eop-NAM03.prod.protection.outlook.com
+ (10.152.81.150) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3433.34; Fri, 2 Oct
+ 2020 14:18:32 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134836521799.1107787333936.1612591409.0.161055JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:52666] helo=p2-jbemailsyndicator22.ctct.net)
+	by 10.249.239.20 (envelope-from <AiTEwpI83TyK/eKeprJZCNA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 5E/1C-48986-311987F5; Sat, 03 Oct 2020 10:56:19 -0400
+from BN8NAM11FT013.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::4e) by
+ BN8NAM11HT241.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::221)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3433.35; Sat, 3 Oct
+ 2020 14:56:19 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134837055621.1107787333936.1612591409.0.161055JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:53341] helo=p2-jbemailsyndicator33.ctct.net)
+	by 10.249.239.20 (envelope-from <AxEq8zOCHR+a0z3VbISNg5g==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id E3/07-48986-392E97F5; Sun, 04 Oct 2020 10:56:19 -0400
+from DB3EUR04FT008.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0c::43) by
+ DB3EUR04HT151.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0c::164)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3433.34; Sun, 4 Oct
+ 2020 14:56:20 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134846111503.1107787333936.1612591409.0.131011JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:53824] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.248.20 (envelope-from <ACIg34eNlQ3SvC4f00/EaWA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 48/86-24702-9EA2B7F5; Mon, 05 Oct 2020 10:17:13 -0400
+from DB8EUR05FT041.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::45) by
+ DB8EUR05HT084.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::461)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3433.34; Mon, 5 Oct
+ 2020 14:17:14 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134846791242.1107787333936.1612591409.0.161211JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:43233] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.250.20 (envelope-from <AFwyBSapZTlicoEwB5v/YhQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id BE/2C-60187-0B79C7F5; Tue, 06 Oct 2020 12:13:36 -0400
+from DM6NAM10FT061.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e86::4e) by
+ DM6NAM10HT175.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e86::111)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3412.21; Tue, 6 Oct
+ 2020 16:13:36 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134854666528.1107787333936.1612591409.0.151522JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:43836] helo=p2-jbemailsyndicator15.ctct.net)
+	by 10.249.244.20 (envelope-from <AXF4B4ahaRrWGQBp5mPmfwQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id D9/56-23197-3B8B08F5; Fri, 09 Oct 2020 15:23:31 -0400
+from BN8NAM11FT034.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::50) by
+ BN8NAM11HT020.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::414)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3455.23; Fri, 9 Oct
+ 2020 19:23:31 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134863444363.1107787333936.1612591409.0.151035JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:58161] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.250.20 (envelope-from <AaweTlrsySZ+xdK3F0VGxkA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 7C/04-20258-558138F5; Sun, 11 Oct 2020 10:36:05 -0400
+from BN8NAM11FT063.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::4b) by
+ BN8NAM11HT176.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::459)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3455.23; Sun, 11 Oct
+ 2020 14:36:06 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134863400558.1107787333936.1612591409.0.151130JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:33287] helo=p2-jbemailsyndicator18.ctct.net)
+	by 10.249.247.20 (envelope-from <AUiePrazKS8e+f0lKRPYShw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 6C/DF-00832-3F6748F5; Mon, 12 Oct 2020 11:32:03 -0400
+from AM5EUR02FT028.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1c::41) by
+ AM5EUR02HT030.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1c::270)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3455.23; Mon, 12 Oct
+ 2020 15:32:04 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134876524812.1107787333936.1612591409.0.161005JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:50872] helo=p2-jbemailsyndicator19.ctct.net)
+	by 10.249.240.20 (envelope-from <A4dRXEyqoRg+gJM8KF5v9VQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 99/AF-00696-8A5B58F5; Tue, 13 Oct 2020 10:11:52 -0400
+from BN8NAM12FT062.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc66::4b) by
+ BN8NAM12HT153.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc66::445)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3477.11; Tue, 13 Oct
+ 2020 14:11:54 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134884976914.1107787333936.1612591409.0.151320JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:44438] helo=p2-jbemailsyndicator18.ctct.net)
+	by 10.249.249.20 (envelope-from <A+vyXwAPpRHSejIouuRm7XQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 8A/65-31400-E15888F5; Thu, 15 Oct 2020 13:21:34 -0400
+from BN8NAM12FT033.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc66::4b) by
+ BN8NAM12HT228.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc66::174)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3499.7; Thu, 15 Oct
+ 2020 17:21:34 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134889785386.1107787333936.1612591409.0.141603JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:54727] helo=p2-jbemailsyndicator11.ctct.net)
+	by 10.249.243.20 (envelope-from <AVFCg83FoTY+jkcJIEiu/4A==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id B0/83-13678-DDCF98F5; Fri, 16 Oct 2020 16:04:45 -0400
+from VI1EUR06FT032.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc37::44) by
+ VI1EUR06HT099.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc37::497)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3477.23; Fri, 16 Oct
+ 2020 20:04:48 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134889755705.1107787333936.1612591409.0.141105JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:50982] helo=p2-jbemailsyndicator15.ctct.net)
+	by 10.249.237.20 (envelope-from <A8cwBuh5HTGCj/NOG011WBw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id B2/53-64179-1F95C8F5; Sun, 18 Oct 2020 11:06:25 -0400
+from CY1NAM02FT021.eop-nam02.prod.protection.outlook.com
+ (10.152.74.57) by CY1NAM02HT163.eop-nam02.prod.protection.outlook.com
+ (10.152.74.243) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3477.21; Sun, 18 Oct
+ 2020 15:06:25 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134899535798.1107787333936.1612591409.0.151339JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:38248] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.249.20 (envelope-from <AMrOU/ft+RM64GGD8uBN8EQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 89/E7-25245-38FCD8F5; Mon, 19 Oct 2020 13:40:19 -0400
+from DB8EUR05FT027.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::42) by
+ DB8EUR05HT173.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::409)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3477.21; Mon, 19 Oct
+ 2020 17:40:21 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134903615682.1107787333936.1612591409.0.151125JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:33822] helo=p2-jbemailsyndicator15.ctct.net)
+	by 10.249.248.20 (envelope-from <A8+Aq/fmSRcWvrWmHZHNjfw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 57/47-14153-3A10F8F5; Tue, 20 Oct 2020 11:26:27 -0400
+from AM5EUR02FT037.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1c::46) by
+ AM5EUR02HT238.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1c::324)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3477.21; Tue, 20 Oct
+ 2020 15:26:30 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134911444945.1107787333936.1612591409.0.150951JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:34021] helo=p2-jbemailsyndicator29.ctct.net)
+	by 10.249.237.20 (envelope-from <AT+D2toqKR+aIWNFuiOC1Vw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 76/6E-64179-3BE819F5; Thu, 22 Oct 2020 09:52:51 -0400
+from DM3NAM05FT007.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e51::51) by
+ DM3NAM05HT028.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e51::218)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.7; Thu, 22 Oct
+ 2020 13:52:52 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134913677901.1107787333936.1612591409.0.151045JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:39309] helo=p2-jbemailsyndicator16.ctct.net)
+	by 10.249.248.20 (envelope-from <A2Ux//KelSaSJhU3UZO9kEw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id EC/39-14153-9BCE29F5; Fri, 23 Oct 2020 10:46:17 -0400
+from CO1NAM05FT047.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e50::43) by
+ CO1NAM05HT120.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e50::322)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.7; Fri, 23 Oct
+ 2020 14:46:19 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134916569171.1107787333936.1612591409.0.151030JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:57545] helo=p2-jbemailsyndicator28.ctct.net)
+	by 10.249.246.20 (envelope-from <AsDtxJz+kSaa4sGg85wjOtg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id D2/26-64780-4CA349F5; Sat, 24 Oct 2020 10:31:32 -0400
+from DM6NAM12FT035.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc64::4a) by
+ DM6NAM12HT132.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc64::203)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.9; Sat, 24 Oct
+ 2020 14:31:33 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134925882318.1107787333936.1612591409.0.151021JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:45654] helo=p2-jbemailsyndicator18.ctct.net)
+	by 10.249.240.20 (envelope-from <AB9ArM1LsQCGITOOTcAPUfA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 37/F6-46871-D9BD69F5; Mon, 26 Oct 2020 10:22:21 -0400
+from DB5EUR01FT030.eop-EUR01.prod.protection.outlook.com
+ (2a01:111:e400:7e1a::4d) by
+ DB5EUR01HT141.eop-EUR01.prod.protection.outlook.com (2a01:111:e400:7e1a::275)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3499.18; Mon, 26 Oct
+ 2020 14:22:22 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134929802294.1107787333936.1612591409.0.161040JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:53041] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.247.20 (envelope-from <A7J8aZWhXSVK/Yet/eQfr1g==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 05/98-32545-6E6389F5; Tue, 27 Oct 2020 11:04:06 -0400
+from VI1EUR05FT016.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc12::42) by
+ VI1EUR05HT139.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc12::305)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3499.18; Tue, 27 Oct
+ 2020 15:04:06 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134931441528.1107787333936.1612591409.0.130946JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:58171] helo=p2-jbemailsyndicator22.ctct.net)
+	by 10.249.236.20 (envelope-from <Ac6FFRCl3QzSYWeKMOPRTUg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 56/0E-30961-876799F5; Wed, 28 Oct 2020 09:47:36 -0400
+from BN7NAM10FT058.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e8f::4e) by
+ BN7NAM10HT254.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e8f::478)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3499.18; Wed, 28 Oct
+ 2020 13:47:36 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134937170097.1107787333936.1612591409.0.151030JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:55940] helo=p2-jbemailsyndicator12.ctct.net)
+	by 10.249.250.20 (envelope-from <A4WUo4QbiTPSrnme5WeKA8w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id F6/25-01957-CD2DA9F5; Thu, 29 Oct 2020 10:34:04 -0400
+from DB5EUR01FT017.eop-EUR01.prod.protection.outlook.com
+ (2a01:111:e400:7e1a::51) by
+ DB5EUR01HT242.eop-EUR01.prod.protection.outlook.com (2a01:111:e400:7e1a::185)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.15; Thu, 29 Oct
+ 2020 14:34:05 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134941922588.1107787333936.1612591409.0.161109JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:60968] helo=p2-jbemailsyndicator15.ctct.net)
+	by 10.249.250.20 (envelope-from <AdJpami9gS4yvv1P3qrxWdg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 92/87-01957-9FC2C9F5; Fri, 30 Oct 2020 11:10:49 -0400
+from VI1EUR04FT023.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0e::46) by
+ VI1EUR04HT221.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0e::88)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.15; Fri, 30 Oct
+ 2020 15:10:54 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134942423091.1107787333936.1612591409.0.121230JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:60343] helo=p2-jbemailsyndicator28.ctct.net)
+	by 10.249.247.20 (envelope-from <AiSqJCI/eR4am5Gg1txDi5Q==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 21/06-32545-7E0FE9F5; Sun, 01 Nov 2020 12:31:19 -0500
+from HE1EUR02FT059.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1d::42) by
+ HE1EUR02HT127.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1d::338)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.15; Sun, 1 Nov
+ 2020 17:31:20 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134953153997.1107787333936.1612591409.0.142000JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:56008] helo=p2-jbemailsyndicator14.ctct.net)
+	by 10.249.248.20 (envelope-from <A13vEL7JpQlap4UlvoNR4Zw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id EB/BE-03371-AFBA0AF5; Mon, 02 Nov 2020 20:01:46 -0500
+from VI1EUR06FT012.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc37::4b) by
+ VI1EUR06HT066.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc37::314)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.15; Tue, 3 Nov
+ 2020 01:01:47 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134953300246.1107787333936.1612591409.0.150700JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:52722] helo=p2-jbemailsyndicator19.ctct.net)
+	by 10.249.242.20 (envelope-from <AEn6fLO7ISlCgaCQnMOSV+g==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 5F/D6-42434-CF641AF5; Tue, 03 Nov 2020 07:03:08 -0500
+from DM6NAM12FT025.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc64::45) by
+ DM6NAM12HT105.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc64::269)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.9; Tue, 3 Nov
+ 2020 12:03:08 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134956543364.1107787333936.1612591409.0.151201JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:57850] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.248.20 (envelope-from <AZXr3rAROSSazs5hdiEW8Iw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 54/F4-03371-86D81AF5; Tue, 03 Nov 2020 12:03:36 -0500
+from VI1EUR05FT016.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc12::51) by
+ VI1EUR05HT078.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc12::272)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.15; Tue, 3 Nov
+ 2020 17:03:46 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134957052398.1107787333936.1612591409.0.142000JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:43257] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.244.20 (envelope-from <AoJqjNkfDS8GEG3RG/8kVGw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id BB/8E-11450-39DF1AF5; Tue, 03 Nov 2020 20:02:11 -0500
+from DM3NAM03FT061.eop-NAM03.prod.protection.outlook.com
+ (10.152.82.54) by DM3NAM03HT146.eop-NAM03.prod.protection.outlook.com
+ (10.152.83.150) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.15; Wed, 4 Nov
+ 2020 01:02:12 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134960141747.1107787333936.1612591409.0.120940JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:53012] helo=p2-jbemailsyndicator31.ctct.net)
+	by 10.249.244.20 (envelope-from <AZGn77wCoSGu6GpG6i7EiFw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 1A/05-02667-09DB2AF5; Wed, 04 Nov 2020 09:41:20 -0500
+from BN7NAM10FT023.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e8f::4b) by
+ BN7NAM10HT037.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e8f::225)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3520.17; Wed, 4 Nov
+ 2020 14:41:21 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134968564681.1107787333936.1612591409.0.121010JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:39542] helo=p2-jbemailsyndicator11.ctct.net)
+	by 10.249.242.20 (envelope-from <A3ppDyCI8Q5STVq/cLhCdug==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 3F/ED-49882-59A08AF5; Sun, 08 Nov 2020 10:11:17 -0500
+from CO1NAM04FT028.eop-NAM04.prod.protection.outlook.com
+ (10.152.90.58) by CO1NAM04HT198.eop-NAM04.prod.protection.outlook.com
+ (10.152.91.68) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3541.22; Sun, 8 Nov
+ 2020 15:11:17 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134978213276.1107787333936.1612591409.0.110957JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:45050] helo=p2-jbemailsyndicator27.ctct.net)
+	by 10.249.241.20 (envelope-from <A0Whr3iThRY6LDqr/7lJL0w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 53/ED-61941-51959AF5; Mon, 09 Nov 2020 09:58:29 -0500
+from DB5EUR03FT009.eop-EUR03.prod.protection.outlook.com
+ (2a01:111:e400:7e0a::48) by
+ DB5EUR03HT051.eop-EUR03.prod.protection.outlook.com (2a01:111:e400:7e0a::265)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3541.17; Mon, 9 Nov
+ 2020 14:58:31 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1134979531308.1107787333936.1612591409.0.131021JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:40951] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.247.20 (envelope-from <AIivSsvlZRZ23d9Fcvox3Ag==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 71/A9-08002-B20BAAF5; Tue, 10 Nov 2020 10:22:19 -0500
+from CO1NAM05FT040.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e50::44) by
+ CO1NAM05HT139.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e50::341)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3564.13; Tue, 10 Nov
+ 2020 15:22:20 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135003231552.1107787333936.1612591409.0.130903JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:48789] helo=p2-jbemailsyndicator12.ctct.net)
+	by 10.249.237.20 (envelope-from <A9e5wZI6mSH+e84QWbSuY5A==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 8C/1F-17832-68782BF5; Mon, 16 Nov 2020 09:07:02 -0500
+from DM6NAM11FT026.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4d::48) by
+ DM6NAM11HT100.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4d::308)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3564.28; Mon, 16 Nov
+ 2020 14:07:02 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135012602110.1107787333936.1612591409.0.121710JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:52562] helo=p2-jbemailsyndicator14.ctct.net)
+	by 10.249.237.20 (envelope-from <AXK60GKXYTwympM0VfKiiig==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id FE/BD-17832-C2C95BF5; Wed, 18 Nov 2020 17:11:56 -0500
+from DB8EUR06FT042.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::4c) by
+ DB8EUR06HT123.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::246)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3589.20; Wed, 18 Nov
+ 2020 22:11:59 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135043816781.1107787333936.1612591409.0.121144JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:41936] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.244.20 (envelope-from <AzBDIpf9MTlOM/AhAQHcWZQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 9B/87-23034-ECD21CF5; Fri, 27 Nov 2020 11:48:14 -0500
+from DB8EUR06FT060.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::48) by
+ DB8EUR06HT163.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::144)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3611.23; Fri, 27 Nov
+ 2020 16:48:14 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135053491529.1107787333936.1612591409.0.120855JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:50988] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.243.20 (envelope-from <AsPcIswzRQ4e0eXn1gt86Ew==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 38/5E-23670-CF9F4CF5; Mon, 30 Nov 2020 08:56:12 -0500
+from CO1NAM11FT014.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:3861::52) by
+ CO1NAM11HT082.eop-nam11.prod.protection.outlook.com (2a01:111:e400:3861::290)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3611.25; Mon, 30 Nov
+ 2020 13:56:13 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135065134938.1107787333936.1612591409.0.150907JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:46400] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.249.20 (envelope-from <AWPzYJkldS9Ov1vn42aU7qA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 14/96-59777-232F8CF5; Thu, 03 Dec 2020 09:12:02 -0500
+from DB3EUR04FT026.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0c::4e) by
+ DB3EUR04HT089.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0c::126)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3632.17; Thu, 3 Dec
+ 2020 14:12:03 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135083454773.1107787333936.1612591409.0.150935JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:42633] helo=p2-jbemailsyndicator27.ctct.net)
+	by 10.249.234.20 (envelope-from <AfHNxTtfqQZ6dsL3ttblr6Q==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 45/00-23764-6AE3ECF5; Mon, 07 Dec 2020 09:39:34 -0500
+from HE1EUR02FT027.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1d::50) by
+ HE1EUR02HT068.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1d::310)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3632.17; Mon, 7 Dec
+ 2020 14:39:36 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135096917564.1107787333936.1612591409.0.131038JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:60840] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.244.20 (envelope-from <AJC140WjWQImzz2enR48otA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 2B/39-00383-3D142DF5; Thu, 10 Dec 2020 10:42:11 -0500
+from DB8EUR05FT021.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::4f) by
+ DB8EUR05HT081.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::229)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3654.12; Thu, 10 Dec
+ 2020 15:42:13 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135098433602.1107787333936.1612591409.0.130906JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:44298] helo=p2-jbemailsyndicator11.ctct.net)
+	by 10.249.242.20 (envelope-from <ARFub7x0fRViRnC6eESnEOQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 30/A7-13874-BCD73DF5; Fri, 11 Dec 2020 09:10:19 -0500
+from VI1EUR06FT065.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc37::45) by
+ VI1EUR06HT064.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc37::276)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3654.18; Fri, 11 Dec
+ 2020 14:10:20 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135113151189.1107787333936.1612591409.0.131040JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:34376] helo=p2-jbemailsyndicator28.ctct.net)
+	by 10.249.235.20 (envelope-from <A7Lvoob+aTViRkbw+bD4pTw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 86/FD-38089-D4887DF5; Mon, 14 Dec 2020 10:44:13 -0500
+from DB8EUR05FT067.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::53) by
+ DB8EUR05HT124.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::148)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3654.12; Mon, 14 Dec
+ 2020 15:44:15 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135132979154.1107787333936.1612591409.0.141810JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:48344] helo=p2-jbemailsyndicator21.ctct.net)
+	by 10.249.249.20 (envelope-from <AzylN2mGfSeOkYtc4EeolqA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id B4/01-27562-2173DDF5; Fri, 18 Dec 2020 18:11:14 -0500
+from DB8EUR06FT015.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::48) by
+ DB8EUR06HT144.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::133)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3676.22; Fri, 18 Dec
+ 2020 23:11:14 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135177603822.1107787333936.1612591409.0.141043JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:36248] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.249.20 (envelope-from <AouyNA+srQZS/H7/Ja46zcA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 86/6C-47205-721ACEF5; Wed, 30 Dec 2020 10:47:51 -0500
+from DM6NAM11FT009.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4d::45) by
+ DM6NAM11HT051.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4d::414)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3700.29; Wed, 30 Dec
+ 2020 15:47:52 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135181971260.1107787333936.1612591409.0.131025JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:36593] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.245.20 (envelope-from <AQe+hCogFTgStJ5NYzudoXw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id C7/EC-61470-A12E1FF5; Sun, 03 Jan 2021 10:26:18 -0500
+from DM6NAM04FT020.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:e400:7ea3::50) by
+ DM6NAM04HT022.eop-NAM04.prod.protection.outlook.com (2a01:111:e400:7ea3::177)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3721.24; Sun, 3 Jan
+ 2021 15:26:19 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135203975748.1107787333936.1612591409.0.151106JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:56838] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.249.20 (envelope-from <AFcY2qOoxRTa0//t8LdL4sg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 20/41-35786-101E5FF5; Wed, 06 Jan 2021 11:10:41 -0500
+from DB8EUR06FT007.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::41) by
+ DB8EUR06HT057.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::331)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3742.6; Wed, 6 Jan
+ 2021 16:10:43 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135208381924.1107787333936.1612591409.0.131607JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:36634] helo=p2-jbemailsyndicator22.ctct.net)
+	by 10.249.247.20 (envelope-from <Az9L56geiSg6vU6Wgd7jJaQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id D0/BC-59230-BC826FF5; Wed, 06 Jan 2021 16:16:59 -0500
+from DM6NAM11FT068.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4d::49) by
+ DM6NAM11HT187.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4d::455)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3721.24; Wed, 6 Jan
+ 2021 21:16:59 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135216651178.1107787333936.1612591409.0.130930JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:47846] helo=p2-jbemailsyndicator25.ctct.net)
+	by 10.249.236.20 (envelope-from <AqenQ5XTPTh6S/iUj/A24xw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id B7/A0-00783-D4EB9FF5; Sat, 09 Jan 2021 09:31:41 -0500
+from DM6NAM11FT011.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4d::46) by
+ DM6NAM11HT177.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4d::120)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3742.6; Sat, 9 Jan
+ 2021 14:31:41 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135233950109.1107787333936.1612591409.0.121031JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:38331] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.249.20 (envelope-from <AZD+6KxoDTMa4Edxa1YkJSA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 41/FD-34453-4431FFF5; Wed, 13 Jan 2021 10:35:32 -0500
+from PU1APC01FT029.eop-APC01.prod.protection.outlook.com
+ (2a01:111:e400:7ebe::50) by
+ PU1APC01HT065.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebe::290)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3763.10; Wed, 13 Jan
+ 2021 15:35:39 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135263219125.1107787333936.1612591409.0.141049JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:39220] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.247.20 (envelope-from <A49K2gw8LS3qP9nR/udl4tw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id BA/AE-02823-A53A9006; Thu, 21 Jan 2021 10:52:58 -0500
+from DM6NAM10FT062.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e86::50) by
+ DM6NAM10HT004.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e86::208)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3784.11; Thu, 21 Jan
+ 2021 15:52:59 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135266066089.1107787333936.1612591409.0.141300JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:45816] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.241.20 (envelope-from <Av5jan9IMRMOMDkJ+bW8oRw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id C3/74-06545-9E31B006; Fri, 22 Jan 2021 13:05:29 -0500
+from HE1EUR04FT010.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::53) by
+ HE1EUR04HT167.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::95)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3784.11; Fri, 22 Jan
+ 2021 18:05:30 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135267055773.1107787333936.1612591409.0.130930JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:35244] helo=p2-jbemailsyndicator31.ctct.net)
+	by 10.249.234.20 (envelope-from <ARRL+p7zdQoG9TqMPn5yeIw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id E2/CE-39175-FB48D006; Sun, 24 Jan 2021 09:31:27 -0500
+from DM3NAM05FT028.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e51::43) by
+ DM3NAM05HT161.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e51::105)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3805.11; Sun, 24 Jan
+ 2021 14:31:27 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135345207626.1107787333936.1612591409.0.170940JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:54646] helo=p2-jbemailsyndicator18.ctct.net)
+	by 10.249.232.20 (envelope-from <A6x5nj5G4SGer2que4VwvZA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 10/62-22047-68AAE106; Sat, 06 Feb 2021 09:41:10 -0500
+from BN8NAM12FT025.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc66::45) by
+ BN8NAM12HT128.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc66::201)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3805.6; Sat, 6 Feb
+ 2021 14:41:10 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135364779825.1107787333936.1612591409.0.170951JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:34499] helo=p2-jbemailsyndicator19.ctct.net)
+	by 10.249.235.20 (envelope-from <A1AVeNIViTWWqGHH8BhwIJg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 13/20-22475-0E051206; Mon, 08 Feb 2021 09:55:28 -0500
+from CO1NAM05FT005.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e50::4d) by
+ CO1NAM05HT032.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e50::224)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Mon, 8 Feb
+ 2021 14:55:29 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135379497428.1107787333936.1612591409.0.170942JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:59064] helo=p2-jbemailsyndicator21.ctct.net)
+	by 10.249.247.20 (envelope-from <A64W+S+usSSCpFm9iuRUqlA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 79/38-55840-DC1F3206; Wed, 10 Feb 2021 09:46:37 -0500
+from BN3NAM01FT008.eop-nam01.prod.protection.outlook.com
+ (10.152.66.58) by BN3NAM01HT078.eop-nam01.prod.protection.outlook.com
+ (10.152.66.192) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Wed, 10 Feb
+ 2021 14:46:38 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135386317805.1107787333936.1612591409.0.171006JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:55584] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.248.20 (envelope-from <A0imI4rqDQiGupuk4Edvfpg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id B5/EA-00388-4F845206; Thu, 11 Feb 2021 10:10:44 -0500
+from DM6NAM12FT063.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc64::46) by
+ DM6NAM12HT066.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc64::295)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Thu, 11 Feb
+ 2021 15:10:44 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135395873680.1107787333936.1612591409.0.151550JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:37086] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.234.20 (envelope-from <AuFNbdihGQym6Yd1ykqwQfg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id A7/D4-19101-B1BE6206; Fri, 12 Feb 2021 15:54:51 -0500
+from AM6EUR05FT054.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc11::40) by
+ AM6EUR05HT032.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc11::311)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Fri, 12 Feb
+ 2021 20:54:51 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135396933160.1107787333936.1612591409.0.150940JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:34350] helo=p2-jbemailsyndicator33.ctct.net)
+	by 10.249.250.20 (envelope-from <A2zEWMBEFSBmaZ2aYZrl0rA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 82/BA-61901-C05E7206; Sat, 13 Feb 2021 09:41:16 -0500
+from HE1EUR02FT053.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1d::47) by
+ HE1EUR02HT069.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1d::323)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Sat, 13 Feb
+ 2021 14:41:18 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135397022229.1107787333936.1612591409.0.151725JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:40757] helo=p2-jbemailsyndicator29.ctct.net)
+	by 10.249.243.20 (envelope-from <AlIS6FNHHSrmUUYWoTA5Zwg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 3B/16-07380-F73A9206; Sun, 14 Feb 2021 17:26:07 -0500
+from VI1EUR04FT040.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0e::44) by
+ VI1EUR04HT226.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0e::246)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Sun, 14 Feb
+ 2021 22:26:08 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135416843689.1107787333936.1612591409.0.150932JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:33972] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.245.20 (envelope-from <APPrtxA6ISDm7uDGXvwl0xg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id F7/47-19076-3F68A206; Mon, 15 Feb 2021 09:36:35 -0500
+from BN3NAM01FT041.eop-nam01.prod.protection.outlook.com
+ (10.152.66.53) by BN3NAM01HT171.eop-nam01.prod.protection.outlook.com
+ (10.152.66.182) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Mon, 15 Feb
+ 2021 14:36:35 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135430848317.1107787333936.1612591409.0.151900JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:54754] helo=p2-jbemailsyndicator32.ctct.net)
+	by 10.249.249.20 (envelope-from <A6FZWZFNdQvW2Nms4TREagQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id B5/DB-07109-FAEAD206; Wed, 17 Feb 2021 19:02:55 -0500
+from DB8EUR05FT043.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::52) by
+ DB8EUR05HT222.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::416)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3846.25; Thu, 18 Feb
+ 2021 00:02:56 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135440069089.1107787333936.1612591409.0.151230JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:44774] helo=p2-jbemailsyndicator31.ctct.net)
+	by 10.249.234.20 (envelope-from <AHv/U2l1pR92wU98qYUTiPw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 29/19-14279-035AE206; Thu, 18 Feb 2021 12:34:40 -0500
+from BL2NAM02FT006.eop-nam02.prod.protection.outlook.com
+ (10.152.76.55) by BL2NAM02HT075.eop-nam02.prod.protection.outlook.com
+ (10.152.76.95) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3868.27; Thu, 18 Feb
+ 2021 17:34:41 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135488648682.1107787333936.1612591409.0.151700JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:41873] helo=p2-jbemailsyndicator25.ctct.net)
+	by 10.249.245.20 (envelope-from <AnscIVOuPSZCq4p1V0FIv5Q==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id EF/58-19366-65DC6306; Wed, 24 Feb 2021 17:04:06 -0500
+from VE1EUR03FT039.eop-EUR03.prod.protection.outlook.com
+ (2a01:111:e400:7e09::48) by
+ VE1EUR03HT222.eop-EUR03.prod.protection.outlook.com (2a01:111:e400:7e09::455)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3868.27; Wed, 24 Feb
+ 2021 22:04:08 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135529105798.1107787333936.1612591409.0.160855JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:57585] helo=p2-jbemailsyndicator12.ctct.net)
+	by 10.249.235.20 (envelope-from <AmJW1bv4FTLiivCFwgz4oiw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 3C/40-06285-053FC306; Mon, 01 Mar 2021 08:59:44 -0500
+from DB8EUR05FT059.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::52) by
+ DB8EUR05HT236.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::407)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.19; Mon, 1 Mar
+ 2021 13:59:46 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135538846521.1107787333936.1612591409.0.161400JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:59861] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.249.20 (envelope-from <Ai0eSRy5bThuKaTGkwvZeKQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id EE/BA-12385-B6C8E306; Tue, 02 Mar 2021 14:05:15 -0500
+from DM3NAM03FT004.eop-NAM03.prod.protection.outlook.com
+ (10.152.82.56) by DM3NAM03HT200.eop-NAM03.prod.protection.outlook.com
+ (10.152.83.212) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.19; Tue, 2 Mar
+ 2021 19:05:15 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135546806999.1107787333936.1612591409.0.150910JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:40832] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.235.20 (envelope-from <A55g2oP6lT6eJjFsirFmkyA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 03/AD-10431-5AAE0406; Thu, 04 Mar 2021 09:11:49 -0500
+from DB8EUR05FT052.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::47) by
+ DB8EUR05HT237.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::399)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.19; Thu, 4 Mar
+ 2021 14:11:51 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135607670229.1107787333936.1612591409.0.151048JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:49311] helo=p2-jbemailsyndicator19.ctct.net)
+	by 10.249.250.20 (envelope-from <Axw+c6Kx8SPqPdG+NfydlQA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 77/FE-16151-42BE8406; Wed, 10 Mar 2021 10:52:04 -0500
+from AM7EUR06FT056.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc36::49) by
+ AM7EUR06HT127.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc36::122)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.31; Wed, 10 Mar
+ 2021 15:52:04 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135617386350.1107787333936.1612591409.0.150919JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:50480] helo=p2-jbemailsyndicator12.ctct.net)
+	by 10.249.249.20 (envelope-from <Aft1myoU8TTKGY6d+BtvEhA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 3C/E5-59196-BD72A406; Thu, 11 Mar 2021 09:23:23 -0500
+from DB8EUR05FT063.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::4a) by
+ DB8EUR05HT253.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::429)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.31; Thu, 11 Mar
+ 2021 14:23:25 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135630123260.1107787333936.1612591409.0.151625JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:60730] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.245.20 (envelope-from <A0vPVUSpNQXGsnemfZS2p0w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 59/82-01165-A7CDB406; Fri, 12 Mar 2021 16:26:18 -0500
+from DM6NAM10FT052.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e86::4e) by
+ DM6NAM10HT139.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e86::283)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.31; Fri, 12 Mar
+ 2021 21:26:19 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135631059184.1107787333936.1612591409.0.151055JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:35534] helo=p2-jbemailsyndicator11.ctct.net)
+	by 10.249.244.20 (envelope-from <AgtGG5LjqTl20KuamqyiQFg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 91/FB-32887-A042E406; Sun, 14 Mar 2021 10:56:10 -0400
+from PU1APC01FT059.eop-APC01.prod.protection.outlook.com
+ (2a01:111:e400:7ebe::4d) by
+ PU1APC01HT234.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebe::468)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.31; Sun, 14 Mar
+ 2021 14:56:12 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135657625264.1107787333936.1612591409.0.151338JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:49963] helo=p2-jbemailsyndicator21.ctct.net)
+	by 10.249.244.20 (envelope-from <AwEYbB35CQxSybDRmhPcBFw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 9B/5C-32887-39C9F406; Mon, 15 Mar 2021 13:42:43 -0400
+from DB8EUR06FT049.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::53) by
+ DB8EUR06HT255.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::182)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.31; Mon, 15 Mar
+ 2021 17:42:44 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135667294621.1107787333936.1612591409.0.151227JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:38994] helo=p2-jbemailsyndicator12.ctct.net)
+	by 10.249.235.20 (envelope-from <AoDG23IAVSMCI/Vue7pH7nQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id AF/04-59158-86DD0506; Tue, 16 Mar 2021 12:31:36 -0400
+from DB8EUR05FT041.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::41) by
+ DB8EUR05HT198.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::92)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.31; Tue, 16 Mar
+ 2021 16:31:36 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135677327078.1107787333936.1612591409.0.141037JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:49967] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.237.20 (envelope-from <AxNBN8IdlTnek+/4Nj8KApg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 88/BA-49164-8F412506; Wed, 17 Mar 2021 10:40:56 -0400
+from BN8NAM11FT028.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::45) by
+ BN8NAM11HT021.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::226)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.18; Wed, 17 Mar
+ 2021 14:40:56 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135687791301.1107787333936.1612591409.0.141230JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:49466] helo=p2-jbemailsyndicator14.ctct.net)
+	by 10.249.234.20 (envelope-from <Ar0XziiPOQBCcykOm2Ppc8g==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 11/A7-07889-60183506; Thu, 18 Mar 2021 12:34:14 -0400
+from BN8NAM11FT030.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::4a) by
+ BN8NAM11HT252.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::107)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.18; Thu, 18 Mar
+ 2021 16:34:15 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135697595955.1107787333936.1612591409.0.151222JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:39884] helo=p2-jbemailsyndicator32.ctct.net)
+	by 10.249.237.20 (envelope-from <AFfMqaJl2Tq2p544cdD9zAQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id CA/27-49164-8B0D4506; Fri, 19 Mar 2021 12:26:32 -0400
+from MW2NAM10FT008.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e87::48) by
+ MW2NAM10HT068.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e87::309)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.18; Fri, 19 Mar
+ 2021 16:26:32 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135699047095.1107787333936.1612591409.0.151539JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:37736] helo=p2-jbemailsyndicator11.ctct.net)
+	by 10.249.244.20 (envelope-from <AFAxSr0wbSnOUgYHvBqk/qQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id FA/3F-65352-5EEF4506; Fri, 19 Mar 2021 15:43:33 -0400
+from BN8NAM11FT039.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::49) by
+ BN8NAM11HT188.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::485)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.18; Fri, 19 Mar
+ 2021 19:43:34 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135699766587.1107787333936.1612591409.0.151045JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:48879] helo=p2-jbemailsyndicator19.ctct.net)
+	by 10.249.246.20 (envelope-from <Az9I1i+e4SLGEVDmHnr7g0g==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id AC/20-38147-AAA06506; Sat, 20 Mar 2021 10:46:02 -0400
+from AM5EUR02FT053.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1c::47) by
+ AM5EUR02HT008.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1c::87)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.19; Sat, 20 Mar
+ 2021 14:46:03 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135699765751.1107787333936.1612591409.0.151110JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:53024] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.244.20 (envelope-from <AEsg/6LSdRSiMVDdpUmhfEw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 32/BC-65352-21267506; Sun, 21 Mar 2021 11:11:14 -0400
+from HE1EUR02FT049.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1d::43) by
+ HE1EUR02HT086.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1d::450)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.19; Sun, 21 Mar
+ 2021 15:11:15 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135687064391.1107787333936.1612591409.0.181147JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:48184] helo=p2-jbemailsyndicator30.ctct.net)
+	by 10.249.246.20 (envelope-from <Aon5xkM7eSDm1pLSB/cUM6w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 1C/92-38147-CFCB8506; Mon, 22 Mar 2021 11:51:24 -0400
+from VI1EUR05FT043.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc12::48) by
+ VI1EUR05HT203.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc12::68)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3955.18; Mon, 22 Mar
+ 2021 15:51:33 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135732192593.1107787333936.1612591409.0.191124JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:46806] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.243.20 (envelope-from <Agw3IKXxjTV6NNaYZXeZGrw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 3D/7A-07206-B090A506; Tue, 23 Mar 2021 11:28:11 -0400
+from CO1NAM05FT004.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e50::45) by
+ CO1NAM05HT008.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e50::192)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.10; Tue, 23 Mar
+ 2021 15:28:11 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135756197511.1107787333936.1612591409.0.151029JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:36726] helo=p2-jbemailsyndicator19.ctct.net)
+	by 10.249.249.20 (envelope-from <AbMf6NXC2SL6w9ACYTTdftg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 09/E7-14545-55F9C506; Thu, 25 Mar 2021 10:33:57 -0400
+from BN7NAM10FT059.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e8f::48) by
+ BN7NAM10HT104.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e8f::331)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.25; Thu, 25 Mar
+ 2021 14:33:57 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135759530055.1107787333936.1612591409.0.151635JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:40066] helo=p2-jbemailsyndicator16.ctct.net)
+	by 10.249.249.20 (envelope-from <AR19FGTsNRbq+8nNHpPsO/w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id AB/B6-14545-D05FC506; Thu, 25 Mar 2021 16:39:41 -0400
+from VE1EUR03FT034.eop-EUR03.prod.protection.outlook.com
+ (2a01:111:e400:7e09::45) by
+ VE1EUR03HT072.eop-EUR03.prod.protection.outlook.com (2a01:111:e400:7e09::311)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.29; Thu, 25 Mar
+ 2021 20:39:48 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135769510281.1107787333936.1612591409.0.121400JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:46489] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.232.20 (envelope-from <ADqg7fMEATW6vJJIt2Q7XGg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 71/F2-34585-0437F506; Sat, 27 Mar 2021 14:02:40 -0400
+from BN7NAM10FT050.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e8f::43) by
+ BN7NAM10HT045.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e8f::138)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.25; Sat, 27 Mar
+ 2021 18:02:41 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135769656397.1107787333936.1612591409.0.121045JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:35884] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.250.20 (envelope-from <AkMfeu7xWRR22kr4YpNxdcg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 0D/DE-12175-FB690606; Sun, 28 Mar 2021 10:46:23 -0400
+from CO1NAM05FT026.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e50::4c) by
+ CO1NAM05HT099.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e50::301)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.14; Sun, 28 Mar
+ 2021 14:46:25 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135769435459.1107787333936.1612591409.0.121400JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:44286] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.236.20 (envelope-from <A8wvA3yxvSdWqWkP6rnMyOA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 7F/32-39270-D84C0606; Sun, 28 Mar 2021 14:01:49 -0400
+from HE1EUR04FT013.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::4e) by
+ HE1EUR04HT123.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::363)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.25; Sun, 28 Mar
+ 2021 18:01:52 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135806116693.1107787333936.1612591409.0.141049JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:53302] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.248.20 (envelope-from <AXtf0ZFTRQ3SrXvcvrFEwbg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 26/93-15127-24B33606; Tue, 30 Mar 2021 10:52:50 -0400
+from DM3NAM05FT025.eop-nam05.prod.protection.outlook.com
+ (2a01:111:e400:7e51::46) by
+ DM3NAM05HT132.eop-nam05.prod.protection.outlook.com (2a01:111:e400:7e51::322)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.14; Tue, 30 Mar
+ 2021 14:52:50 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135817489718.1107787333936.1612591409.0.131703JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:55704] helo=p2-jbemailsyndicator27.ctct.net)
+	by 10.249.233.20 (envelope-from <ANNH51CuwSaSJGpl8qSEbWg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 40/D0-36739-C84E4606; Wed, 31 Mar 2021 17:07:24 -0400
+from MW2NAM10FT051.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e87::4d) by
+ MW2NAM10HT217.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e87::175)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3977.29; Wed, 31 Mar
+ 2021 21:07:25 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135828086402.1107787333936.1612591409.0.111030JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:55948] helo=p2-jbemailsyndicator20.ctct.net)
+	by 10.249.249.20 (envelope-from <AWDi1VFQfR2uiBXGzlVVUbQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 3D/15-19104-24B27606; Fri, 02 Apr 2021 10:33:38 -0400
+from CO1NAM03FT055.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.59) by CO1NAM03HT024.eop-NAM03.prod.protection.outlook.com
+ (10.152.81.32) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.28; Fri, 2 Apr
+ 2021 14:33:39 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135828395600.1107787333936.1612591409.0.111800JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:52253] helo=p2-jbemailsyndicator33.ctct.net)
+	by 10.249.247.20 (envelope-from <Ao284mwX9SgepXppFGiyBiQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id AF/92-32315-4673A606; Sun, 04 Apr 2021 18:02:12 -0400
+from VI1EUR04FT048.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0e::4f) by
+ VI1EUR04HT107.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0e::375)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.28; Sun, 4 Apr
+ 2021 22:02:15 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135874827337.1107787333936.1612591409.0.151137JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:46901] helo=p2-jbemailsyndicator13.ctct.net)
+	by 10.249.250.20 (envelope-from <AphjQeQSzRnG+RrS2OOwDuw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 0C/DA-62854-0218C606; Tue, 06 Apr 2021 11:41:20 -0400
+from CY1NAM02FT063.eop-nam02.prod.protection.outlook.com
+ (10.152.74.56) by CY1NAM02HT082.eop-nam02.prod.protection.outlook.com
+ (10.152.75.216) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.28; Tue, 6 Apr
+ 2021 15:41:21 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135906668868.1107787333936.1612591409.0.141733JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:56921] helo=p2-jbemailsyndicator26.ctct.net)
+	by 10.249.232.20 (envelope-from <Adm3uqgj7SjO7v8x4aTrAVQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 35/7B-00856-FF8C0706; Fri, 09 Apr 2021 17:37:03 -0400
+from DM6NAM12FT062.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc64::40) by
+ DM6NAM12HT228.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc64::168)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4042.6; Fri, 9 Apr
+ 2021 21:37:03 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135906884890.1107787333936.1612591409.0.161130JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:37673] helo=p2-jbemailsyndicator15.ctct.net)
+	by 10.249.245.20 (envelope-from <ApCrWpZfhQMKTu3jlgnfLTg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 65/7B-64494-2D4C1706; Sat, 10 Apr 2021 11:31:30 -0400
+from DB8EUR06FT010.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::4d) by
+ DB8EUR06HT173.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::249)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.17; Sat, 10 Apr
+ 2021 15:31:31 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135906884945.1107787333936.1612591409.0.151430JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:55629] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.247.20 (envelope-from <A/IwtgiwuQL+0Hs4CeyzIXw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 5A/80-53354-0FEE1706; Sat, 10 Apr 2021 14:31:12 -0400
+from AM7EUR06FT044.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc36::46) by
+ AM7EUR06HT123.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc36::506)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.17; Sat, 10 Apr
+ 2021 18:31:14 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135906885039.1107787333936.1612591409.0.151500JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:46991] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.246.20 (envelope-from <AwnUHx0d/SzWSWmq0tTmZEw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id CB/B8-50348-F8743706; Sun, 11 Apr 2021 15:01:35 -0400
+from DB8EUR05FT023.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::4f) by
+ DB8EUR05HT255.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::481)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.17; Sun, 11 Apr
+ 2021 19:01:35 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135934773115.1107787333936.1612591409.0.151304JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:36380] helo=p2-jbemailsyndicator32.ctct.net)
+	by 10.249.247.20 (envelope-from <AMyXFxakyTxyEZtLVbqaQ1A==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 65/F7-23095-C7E74706; Mon, 12 Apr 2021 13:08:12 -0400
+from DB3EUR04FT051.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0c::48) by
+ DB3EUR04HT158.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0c::447)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.17; Mon, 12 Apr
+ 2021 17:08:13 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135943846171.1107787333936.1612591409.0.151047JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:58991] helo=p2-jbemailsyndicator14.ctct.net)
+	by 10.249.246.20 (envelope-from <AZMxJCbKTRVeyIqkzKDgtjA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id E3/38-55599-CFFA5706; Tue, 13 Apr 2021 10:51:40 -0400
+from BL2NAM02FT020.eop-nam02.prod.protection.outlook.com
+ (10.152.76.52) by BL2NAM02HT241.eop-nam02.prod.protection.outlook.com
+ (10.152.76.229) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.17; Tue, 13 Apr
+ 2021 14:51:40 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135945834686.1107787333936.1612591409.0.151701JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:51826] helo=p2-jbemailsyndicator15.ctct.net)
+	by 10.249.244.20 (envelope-from <AgUSmGJfYRnaT1CwKM1ds/A==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 53/6E-02218-D9706706; Tue, 13 Apr 2021 17:05:33 -0400
+from BN8NAM11FT061.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::47) by
+ BN8NAM11HT070.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::159)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4042.16; Tue, 13 Apr
+ 2021 21:05:34 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135953598700.1107787333936.1612591409.0.151146JL.2002@scheduler.constantcontact.com
+from [10.252.0.103] ([10.252.0.103:58714] helo=p2-jbemailsyndicator23.ctct.net)
+	by 10.249.247.20 (envelope-from <AbwwBo1Y9STCoOjwrLErmzQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id E1/CF-23095-52F07706; Wed, 14 Apr 2021 11:49:57 -0400
+from DB5EUR01FT024.eop-EUR01.prod.protection.outlook.com
+ (2a01:111:e400:7e1a::48) by
+ DB5EUR01HT132.eop-EUR01.prod.protection.outlook.com (2a01:111:e400:7e1a::368)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4042.16; Wed, 14 Apr
+ 2021 15:49:59 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1135977072807.1107787333936.1612591409.0.161430JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:34866] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.236.20 (envelope-from <AEczewZVcS1Ogm9RGCb1zZg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 67/0C-58013-8EA7C706; Sun, 18 Apr 2021 14:31:04 -0400
+from VI1EUR04FT022.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0e::49) by
+ VI1EUR04HT184.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0e::286)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4042.16; Sun, 18 Apr
+ 2021 18:31:05 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136034999172.1107787333936.1612591409.0.161459JL.2002@scheduler.constantcontact.com
+from [10.252.0.106] ([10.252.0.106:54167] helo=p2-jbemailsyndicator32.ctct.net)
+	by 10.249.232.20 (envelope-from <A6HGOr5MeQxaCULCfUWn+zQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 15/4D-12451-CD8C1806; Thu, 22 Apr 2021 15:05:00 -0400
+from SG2APC01FT055.eop-APC01.prod.protection.outlook.com
+ (2a01:111:e400:7ebd::4a) by
+ SG2APC01HT201.eop-APC01.prod.protection.outlook.com (2a01:111:e400:7ebd::271)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4065.21; Thu, 22 Apr
+ 2021 19:05:01 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136046979264.1107787333936.1612591409.0.291700JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:40718] helo=p2-jbemailsyndicator21.ctct.net)
+	by 10.249.247.20 (envelope-from <AArbCau2sQy+yda8fgvF7eQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 3D/39-06299-D2784806; Sat, 24 Apr 2021 17:01:33 -0400
+from VI1EUR04FT057.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0e::4b) by
+ VI1EUR04HT106.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0e::168)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4065.21; Sat, 24 Apr
+ 2021 21:01:34 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136046238298.1107787333936.1612591409.0.290000JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:45460] helo=p2-jbemailsyndicator22.ctct.net)
+	by 10.249.244.20 (envelope-from <AopRDbZDcTB6wIEhdEWm7Pg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 7B/9B-49716-089E4806; Sun, 25 Apr 2021 00:01:04 -0400
+from BN3NAM01FT054.eop-nam01.prod.protection.outlook.com
+ (10.152.66.56) by BN3NAM01HT138.eop-nam01.prod.protection.outlook.com
+ (10.152.67.186) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4065.21; Sun, 25 Apr
+ 2021 04:01:04 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136164233548.1107787333936.1612591409.0.151152JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:37000] helo=p2-jbemailsyndicator14.ctct.net)
+	by 10.249.232.20 (envelope-from <AK+dURL6TTYmNof7X4wSxng==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 44/62-27906-C30C2906; Wed, 05 May 2021 11:56:44 -0400
+from DB5EUR03FT012.eop-EUR03.prod.protection.outlook.com
+ (2a01:111:e400:7e0a::42) by
+ DB5EUR03HT150.eop-EUR03.prod.protection.outlook.com (2a01:111:e400:7e0a::473)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4087.27; Wed, 5 May
+ 2021 15:56:44 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136235374084.1107787333936.1612591409.0.161149JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:39166] helo=p2-jbemailsyndicator26.ctct.net)
+	by 10.249.250.20 (envelope-from <A/8lFZyj6QJuX6Cp0KONYZw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 55/D6-31916-CD9FB906; Wed, 12 May 2021 11:53:00 -0400
+from HE1EUR04FT013.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::50) by
+ HE1EUR04HT020.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::69)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4129.25; Wed, 12 May
+ 2021 15:53:03 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136461466115.1107787333936.1612591409.0.161716JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:35168] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.250.20 (envelope-from <Ae9dO546FSgKFsJgsvFVS4A==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id CA/E2-60506-A9749B06; Thu, 03 Jun 2021 17:20:26 -0400
+from BN1NAM02FT025.eop-nam02.prod.protection.outlook.com
+ (2a01:111:e400:fc48::40) by
+ BN1NAM02HT047.eop-nam02.prod.protection.outlook.com (2a01:111:e400:fc48::207)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Thu, 3 Jun
+ 2021 21:20:26 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136471112571.1107787333936.1612591409.0.151201JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:56352] helo=p2-jbemailsyndicator25.ctct.net)
+	by 10.249.230.20 (envelope-from <A9S3t2QQORLeqUTcbwpcDzw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 74/B4-02309-32F4AB06; Fri, 04 Jun 2021 12:04:51 -0400
+from DB8EUR05FT021.eop-eur05.prod.protection.outlook.com
+ (2a01:111:e400:fc0f::4c) by
+ DB8EUR05HT194.eop-eur05.prod.protection.outlook.com (2a01:111:e400:fc0f::323)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Fri, 4 Jun
+ 2021 16:04:51 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136471893545.1107787333936.1612591409.0.171534JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:54910] helo=p2-jbemailsyndicator24.ctct.net)
+	by 10.249.233.20 (envelope-from <AyGP/QvCOR0uceJw/E/ofMQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 5A/FF-04616-C218AB06; Fri, 04 Jun 2021 15:38:20 -0400
+from BN8NAM04FT033.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:e400:7e85::46) by
+ BN8NAM04HT060.eop-NAM04.prod.protection.outlook.com (2a01:111:e400:7e85::132)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Fri, 4 Jun
+ 2021 19:38:20 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136472448664.1107787333936.1612591409.0.131150JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:45580] helo=p2-jbemailsyndicator25.ctct.net)
+	by 10.249.236.20 (envelope-from <ABoUYDFCvSn+AbYSlegL8LA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 16/A6-17301-86D9BB06; Sat, 05 Jun 2021 11:51:04 -0400
+from VE1EUR02FT023.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:e400:7e1e::53) by
+ VE1EUR02HT229.eop-EUR02.prod.protection.outlook.com (2a01:111:e400:7e1e::305)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Sat, 5 Jun
+ 2021 15:51:07 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136472654866.1107787333936.1612591409.0.131150JL.2002@scheduler.constantcontact.com
+from [10.252.1.142] ([10.252.1.142:35029] helo=p2-jbemailsyndicator31.ctct.net)
+	by 10.249.231.20 (envelope-from <Axxl8qAl3SMKWXXG2/Gcs/w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id D1/4B-32314-1FEECB06; Sun, 06 Jun 2021 11:51:13 -0400
+from MW2NAM04FT058.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:e400:7e84::4e) by
+ MW2NAM04HT227.eop-NAM04.prod.protection.outlook.com (2a01:111:e400:7e84::425)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Sun, 6 Jun
+ 2021 15:51:14 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136472502079.1107787333936.1612591409.0.131530JL.2002@scheduler.constantcontact.com
+from [10.252.1.142] ([10.252.1.142:36450] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.236.20 (envelope-from <AE2Ioxb0rQsSHWB58OE7lrA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 34/58-17301-6722DB06; Sun, 06 Jun 2021 15:31:02 -0400
+from MW2NAM12FT023.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc65::48) by
+ MW2NAM12HT205.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc65::240)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4219.9; Sun, 6 Jun
+ 2021 19:31:03 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136519268101.1107787333936.1612591409.0.131411JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:52628] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.235.20 (envelope-from <ABiWgzUXaSUe0HW/e7UnHwQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id B0/83-55431-44501C06; Wed, 09 Jun 2021 14:15:32 -0400
+from MW2NAM12FT007.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc65::41) by
+ MW2NAM12HT048.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc65::444)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4219.9; Wed, 9 Jun
+ 2021 18:15:33 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136529006347.1107787333936.1612591409.0.151335JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:34295] helo=p2-jbemailsyndicator17.ctct.net)
+	by 10.249.229.20 (envelope-from <AhjX8adKZSQG7n87nt0gjDw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id A2/72-63000-03E42C06; Thu, 10 Jun 2021 13:38:56 -0400
+from DM6NAM10FT023.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e86::53) by
+ DM6NAM10HT247.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e86::67)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Thu, 10 Jun
+ 2021 17:38:57 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136540565867.1107787333936.1612591409.0.151500JL.2002@scheduler.constantcontact.com
+from [10.252.1.142] ([10.252.1.142:51591] helo=p2-jbemailsyndicator14.ctct.net)
+	by 10.249.234.20 (envelope-from <AmadS7XhATRq21CB+49AAwQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id A8/70-22192-38405C06; Sat, 12 Jun 2021 15:01:23 -0400
+from AM7EUR06FT028.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc36::47) by
+ AM7EUR06HT169.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc36::176)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4219.21; Sat, 12 Jun
+ 2021 19:01:24 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136539980807.1107787333936.1612591409.0.161155JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:40402] helo=p2-jbemailsyndicator28.ctct.net)
+	by 10.249.249.20 (envelope-from <AjOBUdYF/ST253bH2YbHTNA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id E8/18-25358-A8A26C06; Sun, 13 Jun 2021 11:55:54 -0400
+from BN8NAM04FT030.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:e400:7e85::4c) by
+ BN8NAM04HT008.eop-NAM04.prod.protection.outlook.com (2a01:111:e400:7e85::414)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4219.22; Sun, 13 Jun
+ 2021 15:55:54 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136606930906.1107787333936.1612591409.0.151156JL.2002@scheduler.constantcontact.com
+from [10.252.1.142] ([10.252.1.142:56345] helo=p2-jbemailsyndicator18.ctct.net)
+	by 10.249.247.20 (envelope-from <A6nXGdjNCTQuQFuEAOga/9g==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 7A/01-13630-813CCC06; Fri, 18 Jun 2021 12:00:24 -0400
+from BN8NAM11FT008.eop-nam11.prod.protection.outlook.com
+ (2a01:111:e400:fc4b::52) by
+ BN8NAM11HT107.eop-nam11.prod.protection.outlook.com (2a01:111:e400:fc4b::444)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4242.16; Fri, 18 Jun
+ 2021 16:00:25 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136609675671.1107787333936.1612591409.0.151916JL.2002@scheduler.constantcontact.com
+from [10.252.1.142] ([10.252.1.142:52852] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.247.20 (envelope-from <AfDLrsGfGTj+QyZn7ZX6PRA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 85/87-13630-63A2DC06; Fri, 18 Jun 2021 19:20:22 -0400
+from DM6NAM10FT006.eop-nam10.prod.protection.outlook.com
+ (2a01:111:e400:7e86::51) by
+ DM6NAM10HT119.eop-nam10.prod.protection.outlook.com (2a01:111:e400:7e86::333)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4195.18; Fri, 18 Jun
+ 2021 23:20:22 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136610057584.1107787333936.1612591409.0.151150JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:42884] helo=p2-jbemailsyndicator12.ctct.net)
+	by 10.249.248.20 (envelope-from <Ahk/dvVZMTtuUTI20c034Hw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id A8/5E-30983-0621EC06; Sat, 19 Jun 2021 11:50:56 -0400
+from DM3NAM02FT047.eop-nam02.prod.protection.outlook.com
+ (2a01:111:e400:7e71::52) by
+ DM3NAM02HT037.eop-nam02.prod.protection.outlook.com (2a01:111:e400:7e71::402)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4242.16; Sat, 19 Jun
+ 2021 15:50:56 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136609860522.1107787333936.1612591409.0.151430JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:36634] helo=p2-jbemailsyndicator18.ctct.net)
+	by 10.249.248.20 (envelope-from <AW+RyHlO2Tuy8bg0fVmCchg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id 62/56-30983-3E73EC06; Sat, 19 Jun 2021 14:30:59 -0400
+from VI1EUR06FT053.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc37::42) by
+ VI1EUR06HT180.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc37::469)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4242.16; Sat, 19 Jun
+ 2021 18:30:59 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136610469773.1107787333936.1612591409.0.151530JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:45537] helo=p2-jbemailsyndicator25.ctct.net)
+	by 10.249.231.20 (envelope-from <AJLAlri2HTDW5LDaG8jUCJQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 1A/19-23305-609E0D06; Mon, 21 Jun 2021 15:31:18 -0400
+from DM6NAM12FT068.eop-nam12.prod.protection.outlook.com
+ (2a01:111:e400:fc64::45) by
+ DM6NAM12HT129.eop-nam12.prod.protection.outlook.com (2a01:111:e400:fc64::337)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.10; Mon, 21 Jun
+ 2021 19:31:19 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136661011032.1107787333936.1612591409.0.171350JL.2002@scheduler.constantcontact.com
+from [10.252.1.141] ([10.252.1.141:47310] helo=p2-jbemailsyndicator21.ctct.net)
+	by 10.249.234.20 (envelope-from <AqeuxI7sZQmG+CaUODSd2nA==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id C4/CC-15181-28473D06; Wed, 23 Jun 2021 13:50:58 -0400
+from DM3NAM02FT049.eop-nam02.prod.protection.outlook.com
+ (2a01:111:e400:7e71::47) by
+ DM3NAM02HT109.eop-nam02.prod.protection.outlook.com (2a01:111:e400:7e71::169)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4242.16; Wed, 23 Jun
+ 2021 17:51:00 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136683445247.1107787333936.1612591409.0.171423JL.2002@scheduler.constantcontact.com
+from [10.252.1.142] ([10.252.1.142:50811] helo=p2-jbemailsyndicator26.ctct.net)
+	by 10.249.234.20 (envelope-from <AIKBIwZhBQkWgKYwLhEIUqw==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 8C/0C-15181-9FF16D06; Fri, 25 Jun 2021 14:27:05 -0400
+from VE1EUR03FT059.eop-EUR03.prod.protection.outlook.com
+ (2a01:111:e400:7e09::41) by
+ VE1EUR03HT157.eop-EUR03.prod.protection.outlook.com (2a01:111:e400:7e09::228)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.18; Fri, 25 Jun
+ 2021 18:27:06 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136684825646.1107787333936.1612591409.0.151155JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:39870] helo=p2-jbemailsyndicator32.ctct.net)
+	by 10.249.247.20 (envelope-from <AcVzpr9kgTK+j7AQUtdDpjQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id B2/9A-54521-D0E47D06; Sat, 26 Jun 2021 11:55:57 -0400
+from DM6NAM04FT013.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:e400:7ea3::52) by
+ DM6NAM04HT122.eop-NAM04.prod.protection.outlook.com (2a01:111:e400:7ea3::328)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.18; Sat, 26 Jun
+ 2021 15:55:58 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136684938661.1107787333936.1612591409.0.151530JL.2002@scheduler.constantcontact.com
+from [10.252.1.143] ([10.252.1.143:41792] helo=p2-jbemailsyndicator26.ctct.net)
+	by 10.249.248.20 (envelope-from <A8uH+f1owR5Gh9gbuDR6/2w==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69340 r(Core:4.3.1.0)) with ESMTP
+	id CD/97-44139-A7087D06; Sat, 26 Jun 2021 15:31:06 -0400
+from DB8EUR06FT024.eop-eur06.prod.protection.outlook.com
+ (2a01:111:e400:fc35::40) by
+ DB8EUR06HT175.eop-eur06.prod.protection.outlook.com (2a01:111:e400:fc35::186)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.18; Sat, 26 Jun
+ 2021 19:31:06 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136685488769.1107787333936.1612591409.0.151530JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:47550] helo=p2-jbemailsyndicator34.ctct.net)
+	by 10.249.233.20 (envelope-from <Azep3Bge/SqOCf0j0BYBNwQ==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id B2/5A-42307-6F1D8D06; Sun, 27 Jun 2021 15:31:02 -0400
+from DM6NAM04FT055.eop-NAM04.prod.protection.outlook.com
+ (2a01:111:e400:7ea3::46) by
+ DM6NAM04HT180.eop-NAM04.prod.protection.outlook.com (2a01:111:e400:7ea3::387)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.18; Sun, 27 Jun
+ 2021 19:31:02 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
+1136685053773.1107787333936.1612591409.0.151155JL.2002@scheduler.constantcontact.com
+from [10.252.1.144] ([10.252.1.144:51682] helo=p2-jbemailsyndicator21.ctct.net)
+	by 10.249.236.20 (envelope-from <AIOJV+o3vRXiUW7e7j9gGUg==_1107787333936_ccnQhPzbEeqXPdSuUpzkig==@in.constantcontact.com>)
+	(ecelerity 4.3.1.69410 r(Core:4.3.1.0)) with ESMTP
+	id 45/E2-19888-711F9D06; Mon, 28 Jun 2021 11:56:07 -0400
+from DB5EUR01FT054.eop-EUR01.prod.protection.outlook.com
+ (2a01:111:e400:7e1a::46) by
+ DB5EUR01HT184.eop-EUR01.prod.protection.outlook.com (2a01:111:e400:7e1a::387)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4264.18; Mon, 28 Jun
+ 2021 15:56:08 +0000
++0000
+SP Digital <noresponder@spdigital.cl>
+noresponder@spdigital.cl
+
+
+
